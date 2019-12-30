@@ -3,7 +3,7 @@
 A basic machine learning project that learns to play the carcassonne game
 
 ## Demo
-![Demo](./demo.gif)
+![Demo](./generation_demo.gif)
 
 ## Setup
 1. Clone the project
